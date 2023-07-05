@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Vered Kurtz-David"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PostDoc @ NYU"
   location         : "New York City"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.il/citations?hl=en&user=JkkcpTUAAAAJ&view_op=list_works&gmla=AJsN-F7GB88gwXsx4DcslY_1zGdqLKrdFiHpk5sngrzNNMZzrza0W3xoSf93XqiZcwVsm7G5JLiIIr3l47fvZmPljf21_FNhVZsfsMBFfW6BbV1set9inxo"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/vered-kurtz"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/i/flow/login?redirect_after_login=%2Fveredkurtz"
   vine             :
   weibo            :
   xing             :
