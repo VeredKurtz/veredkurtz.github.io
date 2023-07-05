@@ -17,26 +17,25 @@ Publications
 ======
 <b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, Nature Communications, 10 (1583), 2019. [[Link]](https://doi.org/10.1038/s41467-019-09343-2) <br>
 
-<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023. [[Link]](/files/vered-cogsi.pdf)
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023.<br> [[Link]](/files/vered-cogsi.pdf)
 
 
 PrePrints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The trembling hand unraveled: the motor dynamics and neural sources of choice inconsistency, under revision, Nature Human Behaviour. preprint available at [[Link]](https://www.biorxiv.org/content/10.1101/2022.12.20.521216v1)<br>
+<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The trembling hand unraveled: the motor dynamics and neural sources of choice inconsistency, under revision, Nature Human Behaviour.<br> [[Link]](https://www.biorxiv.org/content/10.1101/2022.12.20.521216v1)<br>
 
-Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, under revision, Journal of Neuroscience. Draft available upon request 
+Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, under revision, Journal of Neuroscience. Draft available upon request.<br>
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design invariance in the classic consumer choice problem.
 
 Publications in Hebrew
 =====
-<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, Innovations in Management,9, 73-84 (2021)[[Link]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
+<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, Innovations in Management,9, 73-84 (2021)<br> [[Link]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
 
 Ongoing Projects
 ====
-<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P. Allocation of cognitive resources in strategic interactions: a revealed-preference approach. [[Slides]](/files/presentation.pdf) <br>
+<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P. Allocation of cognitive resources in strategic interactions: a revealed-preference approach.<br> [[Slides]](/files/presentation.pdf)<br>
 
-<b>Kurtz-David V.*</b>, Alladi V.*, Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation
-Hakim A.*,<br>
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation Hakim A.*, <br>
 <b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
 
