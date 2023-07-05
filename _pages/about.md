@@ -32,7 +32,8 @@ PrePrints and submitted papers
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, under revision, Journal of Neuroscience. Draft available upon request.<br>
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design invariance in the classic consumer choice problem.
 
-<b> <hr> </b>
+
+<hr>
 
 <br>
 
