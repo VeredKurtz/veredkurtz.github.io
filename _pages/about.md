@@ -13,6 +13,8 @@ redirect_from:
  My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
  I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).
 
+<br>
+
 Publications
 ======
 <b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023.<br> [[Paper]](/files/vered-cogsi.pdf)
@@ -20,6 +22,7 @@ Publications
 <b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, Nature Communications, 10 (1583), 2019. [[Paper]](https://doi.org/10.1038/s41467-019-09343-2) <br>
 
 <hr> 
+<br>
 
 PrePrints and submitted papers 
 ======
@@ -30,6 +33,7 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 <b> <hr> </b>
 
+<br>
 
 Publications in Hebrew
 =====
@@ -37,6 +41,7 @@ Publications in Hebrew
 
 <hr>
 
+ <br>
  
 Ongoing Projects
 ====
@@ -46,5 +51,5 @@ Ongoing Projects
 
 Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
-
+<br>
 
