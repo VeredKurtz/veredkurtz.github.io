@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vered Kurtz-David Personal Website"
+title                    : "Vered Kurtz-David"
 title_separator          : "-"
 name                     : &name "Vered Kurtz-David"
 description              : &description "personal description"
