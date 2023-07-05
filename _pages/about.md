@@ -36,9 +36,9 @@ Ongoing Projects
 ====
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P. Allocation of cognitive resources in strategic interactions: a revealed-preference approach.<br> [[Slides]](/files/presentation.pdf)<br>
 
-<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation Hakim A.*, <br>
-<br>
-<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation.<br> 
+
+Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
 
 
