@@ -29,7 +29,7 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design invariance in the classic consumer choice problem.
 
 <b> <hr> </b>
->נ
+
 
 Publications in Hebrew
 =====
