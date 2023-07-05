@@ -15,8 +15,8 @@ I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinole
 
 Publications
 ======
-Kurtz-David V., Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, Nature Communications, 10 (1583), 2019. Link
-Kurtz-David V., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023. Link
+<b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, Nature Communications, 10 (1583), 2019. Link
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023. Link
 
 
 
