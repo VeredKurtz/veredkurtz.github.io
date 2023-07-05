@@ -13,5 +13,10 @@ My main research interests include neuroeconomics, experimental economics, and d
 My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.
 I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).
 
+Publications
+======
+Kurtz-David V., Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, Nature Communications, 10 (1583), 2019. Link
+Kurtz-David V., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023. Link
+
 
 
