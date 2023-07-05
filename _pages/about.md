@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
  
-* I am a PostDoc fellow at the Gimchler lab at NYU.<br>
-* My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. <br>
-* My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
-* I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).
+ I am a PostDoc fellow at the Gimchler lab at NYU.<br>
+ My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. <br>
+ My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
+ I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).
 
 Publications
 ======
@@ -37,6 +37,7 @@ Ongoing Projects
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P. Allocation of cognitive resources in strategic interactions: a revealed-preference approach.<br> [[Slides]](/files/presentation.pdf)<br>
 
 <b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation Hakim A.*, <br>
+<br>
 <b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
 
