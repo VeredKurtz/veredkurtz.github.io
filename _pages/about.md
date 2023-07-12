@@ -27,9 +27,11 @@ Publications
 
 PrePrints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The trembling hand unraveled: the motor dynamics and neural sources of choice inconsistency, under revision, Nature Human Behaviour.<br> [[Paper]](https://www.biorxiv.org/content/10.1101/2022.12.20.521216v1)<br>
+<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The trembling hand unraveled: the motor dynamics and neural sources of choice inconsistency, under revision, Nature Human Behaviour.<br> 
+[[Paper]](https://www.biorxiv.org/content/10.1101/2022.12.20.521216v1)<br>
 
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, under revision, Journal of Neuroscience. Draft available upon request.<br>
+
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design invariance in the classic consumer choice problem.
 
 
@@ -39,7 +41,8 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 Publications in Hebrew
 =====
-<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, Innovations in Management,9, 73-84 (2021)<br> [[Paper]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
+<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, Innovations in Management,9, 73-84 (2021)<br> 
+[[Paper]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
 
 <hr>
 
