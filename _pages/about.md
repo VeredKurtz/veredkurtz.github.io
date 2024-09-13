@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
  
- I am a postdoctoral fellow with [Paul Glimcher](https://www.neuroeconomicslab.org/), Chair of the Neuroscience Institute at NYU Langone.<br> 
- My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. <br>
- My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
+ I am a postdoctoral fellow with [Paul Glimcher](https://www.neuroeconomicslab.org/), Chair of the Neuroscience Institute at NYU.<br> 
+ My main research interests include neuroeconomics, experimental economics,<br>
+ and decision-making neuroscience. <br>
+ My work focuses on neural mechanisms of irrational choice, reward encoding<br>
+ and strategic choice.<br>
  I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).<br>
- I have been fortunate to work with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com) and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
+ I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com) and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
  [[Link to my CV]](files/Vered_Kurtz_CV_Sep2024.pdf). 
 
