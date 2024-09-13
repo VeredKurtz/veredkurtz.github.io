@@ -28,7 +28,7 @@ Publications
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, <i>Journal of Neuroscience</i>, 44 (18), 2024.<br> 
 [[Paper]](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
 
-<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, Sydney, July, 2023.<br> [[Paper]]([/files/vered-cogsi.pdf](https://escholarship.org/uc/item/7cp9r5hc))<br>
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, Sydney, July, 2023.<br> [[Paper]](https://escholarship.org/uc/item/7cp9r5hc))<br>
 
 <b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, <i>Nature Communications</i>, 10 (1583), 2019. <br>
 [[Paper]](https://doi.org/10.1038/s41467-019-09343-2) <br>
@@ -37,7 +37,7 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 Pre-prints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The trembling hand unraveled: the motor dynamics and neural sources of choice inconsistency, under advanced revision, <i>Journal of Neuroscience</i>.<br> 
+<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics Affect Choice Inconsistency, under advanced revision, <i>Journal of Neuroscience</i>.<br> 
 [[Paper]](https://www.biorxiv.org/content/10.1101/2022.12.20.521216v1)<br>
 
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under review, <i>Nature Communications</i>. <br>
