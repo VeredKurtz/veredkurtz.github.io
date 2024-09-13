@@ -18,7 +18,7 @@ redirect_from:
  and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
 I will be on the Israeli job market in 2024-5.<br>
-
+<br>
  [[Link to my CV]](files/Vered_Kurtz_CV_Sep2024.pdf). 
 
 <hr>
