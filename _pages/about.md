@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Vered Kurtz-David"
-excerpt: "About me"
+excerpt: "Vered Kurtz-David"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,7 +25,6 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 <b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, <i>Nature Communications</i>, 10 (1583), 2019. [[Paper]](https://doi.org/10.1038/s41467-019-09343-2) <br>
 
 <hr> 
-<br>
 
 Pre-prints and submitted papers 
 ======
@@ -42,21 +41,19 @@ Pre-prints and submitted papers
 [[Slides]](/files/KPL_slides_2024.pdf)
 
 <hr>
-<br>
 
 Publications in Hebrew
-=====
+======
 <b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, Innovations in Management,9, 73-84 (2021)<br> 
 [[Paper]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
 
 <hr>
-<br>
  
 Ongoing Projects
-====
+======
 <b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation.<br> 
 
 Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
-<br>
+<hr>
 
