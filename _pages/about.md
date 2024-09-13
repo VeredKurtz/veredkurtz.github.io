@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Vered Kurtz-David"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,7 +20,7 @@ Publications
 ======
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, <i>Journal of Neuroscience</i>, 44 (18), 2024.<br> [[Paper]](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
 
-<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, Sydney, July, 2023.<br> [[Paper]](/files/vered-cogsi.pdf)
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, Sydney, July, 2023.<br> [[Paper]]([/files/vered-cogsi.pdf](https://escholarship.org/uc/item/7cp9r5hc))
 
 <b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, <i>Nature Communications</i>, 10 (1583), 2019. [[Paper]](https://doi.org/10.1038/s41467-019-09343-2) <br>
 
@@ -35,12 +35,13 @@ Pre-prints and submitted papers
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under review, <i>Nature Communications</i>. <br>
 [[Paper]](https://doi.org/10.31234/osf.io/sfhdk)
 
-<b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design invariance in the classic consumer choice problem.
-[[Slides]](/files/vered-cogsi.pdf)
+<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, submitted, <i>Nature Communications</i>. <br> 
+[[Paper]](https://doi.org/10.1101/2024.08.25.609561)<br>
 
+<b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design invariance in the classic consumer choice problem.
+[[Slides]](/files/KPL_slides_2024.pdf)
 
 <hr>
-
 <br>
 
 Publications in Hebrew
@@ -49,13 +50,10 @@ Publications in Hebrew
 [[Paper]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
 
 <hr>
-
- <br>
+<br>
  
 Ongoing Projects
 ====
-<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P. Allocation of cognitive resources in strategic interactions: a revealed-preference approach.<br> [[Slides]](/files/presentation.pdf)<br>
-
 <b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation.<br> 
 
 Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
