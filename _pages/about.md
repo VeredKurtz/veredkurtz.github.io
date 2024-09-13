@@ -12,7 +12,7 @@ redirect_from:
  My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. <br>
  My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
  I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).<br>
- [[Link for my CV]](files/veredcv.pdf). 
+ [[Link for my CV]](files/Vered Kurtz_CV_Sep2024.pdf). 
 
 <br>
 
