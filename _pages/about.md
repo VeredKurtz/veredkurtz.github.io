@@ -64,17 +64,17 @@ Ongoing projects
 
 <b>Kurtz-David V.</b>, Howell K., Meyer M. & Glimcher P., I Have Been Thinking About You: Relating Strategic Reasoning to Theory of Mind.<br>
 
-<b>Kurtz-David V.</b>, Sinha S., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, The Effect of Choice Set Size on Value-Encoding Mechanisms.</b>
+<b>Kurtz-David V.</b>, Sinha S., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, The Effect of Choice Set Size on Value-Encoding Mechanisms.<br>
 
-Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
+Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.<br>
 
 <hr>
 
 Teaching
 ======
 Coller School of Management, Tel Aviv University:<br> 
-2016-2021	  Instructor - Statistic Models for Business (MBA, 6 groups) <br>
-2016-2020	  Teaching assistant - Principles of Business Strategy (MBA, 12 groups) <br>
-2019		    Teaching assistant - Introduction to Business Strategy (undergrad, 2 groups)
+2016-2021,	  Instructor - Statistic Models for Business (MBA, 6 groups) <br>
+2016-2020,	  Teaching assistant - Principles of Business Strategy (MBA, 12 groups) <br>
+2019,		    Teaching assistant - Introduction to Business Strategy (undergrad, 2 groups)
 
 
