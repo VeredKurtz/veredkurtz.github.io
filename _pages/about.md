@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
  
- I am a PostDoc fellow at the [Gimchler](https://www.neuroeconomicslab.org/) lab at NYU.<br>
+ I am a postdoc fellow at the [Gimchler](https://www.neuroeconomicslab.org/) lab at NYU.<br>
  My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. <br>
  My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
  I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).<br>
- [[Link for my CV]](files/veredcv.pdf)
+ [[Link for my CV]](files/veredcv.pdf). 
 
 <br>
 
