@@ -60,9 +60,9 @@ Publications in Hebrew
  
 Ongoing projects
 ======
-<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P.,Neural Mechanisms of Higher-Order Levels of Reasoning.<br>
+<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., Neural Mechanisms of Higher-Order Levels of Reasoning.<br>
 
-<b>Kurtz-David V.</b>, Howell K., Meyer M. & Glimcher P.,I Have Been Thinking About You: Relating Strategic Reasoning to Theory of Mind.<br>
+<b>Kurtz-David V.</b>, Howell K., Meyer M. & Glimcher P., I Have Been Thinking About You: Relating Strategic Reasoning to Theory of Mind.<br>
 
 <b>Kurtz-David V.</b>, Sinha S., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, The Effect of Choice Set Size on Value-Encoding Mechanisms.</b>
 
