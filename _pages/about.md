@@ -18,7 +18,7 @@ redirect_from:
 
 Publications
 ======
-Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, Journal of Neuroscience, 44 (18), 2024. [[Paper]](https://doi.org/10.1038/s41467-019-09343-2](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
+Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, Journal of Neuroscience, 44 (18), 2024. [[Paper]](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
 
 <b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, Proceedings of the Annual Meeting of the Cognitive Science Society, Sydney, July, 2023.<br> [[Paper]](/files/vered-cogsi.pdf)
 
