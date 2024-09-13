@@ -16,7 +16,7 @@ redirect_from:
 <br>
  [[Link to my CV]](files/Vered_Kurtz_CV_Sep2024.pdf). 
 
-<br>
+<hr>
 
 Publications
 ======
