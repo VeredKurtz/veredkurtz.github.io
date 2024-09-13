@@ -53,7 +53,7 @@ Publications in Hebrew
 
 <hr>
  
-Ongoing Projects
+Ongoing projects
 ======
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P.,Neural Mechanisms of Higher-Order Levels of Reasoning.<br>
 
@@ -64,4 +64,12 @@ Ongoing Projects
 Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
 <hr>
+
+Teaching
+======
+Coller School of Management, Tel Aviv University:<br> 
+2016-2021	  Instructor - Statistic Models for Business (MBA, 6 groups) <br>
+2016-2020	  Teaching assistant - Principles of Business Strategy (MBA, 12 groups) <br>
+2019		    Teaching assistant - Introduction to Business Strategy (undergrad, 2 groups)
+
 
