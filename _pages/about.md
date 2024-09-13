@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Vered Kurtz-David"
+title: "Vered Kurtz-David"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
