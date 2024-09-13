@@ -46,14 +46,18 @@ Pre-prints and submitted papers
 
 Publications in Hebrew
 ======
-<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, Innovations in Management,9, 73-84 (2021)<br> 
+<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind blogging: the neutral traits of irrational choice, <i>Innovations in Management</i>,9, 73-84 (2021)<br> 
 [[Paper]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf) 
 
 <hr>
  
 Ongoing Projects
 ======
-<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosing well: Testing the efficiency of neural representation.<br> 
+<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P.,Neural Mechanisms of Higher-Order Levels of Reasoning.<br>
+
+<b>Kurtz-David V.</b>, Howell K., Meyer M. & Glimcher P.,I Have Been Thinking About You: Relating Strategic Reasoning to Theory of Mind.<br>
+
+<b>Kurtz-David V.</b>, Sinha S., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, The Effect of Choice Set Size on Value-Encoding Mechanisms.</b>
 
 Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The neural correlates of prudent behavior.
 
