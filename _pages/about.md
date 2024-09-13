@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vered Kurtz-David"
+title: "About me"
 excerpt: "Vered Kurtz-David"
 author_profile: true
 redirect_from: 
