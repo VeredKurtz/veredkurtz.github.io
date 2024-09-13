@@ -53,7 +53,7 @@ Pre-prints and submitted papers
 
 Publications in Hebrew
 ======
-<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind Blogging: The Neural Traits of Irrational Choice, <i>Innovations in Management</i>,9, 73-84 (2021)<br> 
+<b>Kurtz-David V.</b>, Levy D.J., & Persitz D., Mind Boggling: The Neural Traits of Irrational Choice, <i>Innovations in Management</i>,9, 73-84 (2021)<br> 
 [[Paper]](https://coller.tau.ac.il/sites/coller.tau.ac.il/files/media_server/Recanati/management/newsletter/august2021/Levy.pdf)<br> 
 
 <hr>
