@@ -28,7 +28,7 @@ Publications
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, <i>Journal of Neuroscience</i>, 44 (18), 2024.<br> 
 [[Paper]](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
 
-<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, Sydney, July, 2023.<br> [[Paper]](https://escholarship.org/uc/item/7cp9r5hc))<br>
+<b>Kurtz-David V.</b>, Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, Choosers Adapt Value Coding to the Environment, But Do Not Attain Efficiency, <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, Sydney, July, 2023.<br> [[Paper]](https://escholarship.org/uc/item/7cp9r5hc)<br>
 
 <b>Kurtz-David V.</b>, Persitz D. Webb R. & Levy D.J., The Neural Computation of Inconsistent Choice Behavior, <i>Nature Communications</i>, 10 (1583), 2019. <br>
 [[Paper]](https://doi.org/10.1038/s41467-019-09343-2) <br>
@@ -37,13 +37,13 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 Pre-prints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics Affect Choice Inconsistency, under advanced revision, <i>Journal of Neuroscience</i>.<br> 
+<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics Affect Choice Inconsistency, R&R, <i>Journal of Neuroscience</i>.<br> 
 [[Paper]](https://doi.org/10.1101/2022.12.20.521216)<br>
 
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under review, <i>Nature Communications</i>. <br>
 [[Paper]](https://doi.org/10.31234/osf.io/sfhdk)<br>
 
-<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, submitted, <i>Nature Communications</i>. <br> 
+<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, under review, <i>Nature Communications</i>. <br> 
 [[Paper]](https://doi.org/10.1101/2024.08.25.609561)<br>
 
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design Invariance in the Classic Consumer Choice Problem.<br>
