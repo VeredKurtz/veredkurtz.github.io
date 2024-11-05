@@ -14,7 +14,7 @@ redirect_from:
  My work focuses on neural mechanisms of irrational choice, reward encoding<br>
  and strategic choice.<br>
  I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).<br>
- I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com) <br> [Ryan Webb] (http://ryan-webb.com)  
+ I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com) <br> [Ryan Webb] (http://ryan-webb.com)<br>  
  and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
 I will be on the Israeli job market in 2024-5.<br>
