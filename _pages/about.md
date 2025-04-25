@@ -17,7 +17,7 @@ redirect_from:
  I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com), [Ryan Webb](http://ryan-webb.com) 
  and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
-In the summer of 2025, I will join HebrewU as a Senior Lecturer (Ass. Prof.) at the Econ Department and PPE Program.<br>
+In the summer of 2025, I will join HebrewU as a Senior Lecturer (Ass. Prof.) at the Econ Department and the PPE Program.<br>
 <br>
  [[Link to my CV]](files/Vered_Kurtz_CV_Apr2025.pdf). 
 
