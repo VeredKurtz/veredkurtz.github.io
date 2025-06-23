@@ -25,6 +25,9 @@ In the summer of 2025, I will join HebrewU as a Senior Lecturer (Ass. Prof.) at 
 
 Publications
 ======
+<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics and Choice Inconsistency, forthcoming, <i>Journal of Neuroscience</i>.<br> 
+[[Paper]](https://doi.org/10.1101/2022.12.20.521216)<br>
+
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, <i>Journal of Neuroscience</i>, 44 (18), 2024.<br> 
 [[Paper]](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
 
@@ -37,13 +40,10 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 Pre-prints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics Affect Choice Inconsistency, R&R, <i>Journal of Neuroscience</i>.<br> 
-[[Paper]](https://doi.org/10.1101/2022.12.20.521216)<br>
-
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under review, <i>Nature Communications</i>. <br>
 [[Paper]](https://doi.org/10.31234/osf.io/sfhdk)<br>
 
-<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, under review, <i>Nature Communications</i>. <br> 
+<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, under review, <i>PlosOne</i>. <br> 
 [[Paper]](https://doi.org/10.1101/2024.08.25.609561)<br>
 
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design Invariance in the Classic Consumer Choice Problem.<br>
@@ -72,7 +72,12 @@ Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The Neural Correlates of
 
 Teaching
 ======
-Coller School of Management, Tel Aviv University:<br> 
+Hebrew University: <br>
+2025- ,	  Lecturer - Guided Reading in PPE (UG) <br> 
+2026- ,	  Lecturer - Price Theory B [Intermediate Econ] (UG) <br>
+2026- ,	  Lecturer - Behavioral Economics for PPE (UG) <br>
+<br>
+Tel Aviv University:<br> 
 2016-2021,	  Instructor - Statistic Models for Business (MBA, 6 groups) <br>
 2016-2020,	  Teaching assistant - Principles of Business Strategy (MBA, 12 groups) <br>
 2019,		    Teaching assistant - Introduction to Business Strategy (undergrad, 2 groups)
