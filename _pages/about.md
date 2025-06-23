@@ -25,7 +25,7 @@ In the summer of 2025, I will join HebrewU as a Senior Lecturer (Ass. Prof.) at 
 
 Publications
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics and Choice Inconsistency, forthcoming, <i>Journal of Neuroscience</i>.<br> 
+<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics and Choice Inconsistency, <i>Journal of Neuroscience</i>, forthcoming.<br> 
 [[Paper]](https://doi.org/10.1101/2022.12.20.521216)<br>
 
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, <i>Journal of Neuroscience</i>, 44 (18), 2024.<br> 
@@ -38,7 +38,7 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 <hr> 
 
-Pre-prints and submitted papers 
+Preprints and submitted papers 
 ======
 <b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under review, <i>Nature Communications</i>. <br>
 [[Paper]](https://doi.org/10.31234/osf.io/sfhdk)<br>
