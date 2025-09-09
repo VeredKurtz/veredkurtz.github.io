@@ -9,6 +9,7 @@ redirect_from:
 ---
  
 I am a Senior Lecturer (Assistant Prof.) at the [Bogen Family Econ Department](https://en.economics.huji.ac.il) and the [PPE Program](https://en.ppe.huji.ac.il) at Hebrew University, where I am also visiting the [Federmann Center for the Study of Rationality](https://ratio.huji.ac.il). <br>
+<br>
 I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il), followed by a postdoctoral fellowship with [Paul Glimcher](https://www.neuroeconomicslab.org/), Chair of the Neuroscience Institute at NYU.<br> 
 <br>
 My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
