@@ -23,8 +23,8 @@ I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/
 
 Publications
 ======
-<b>Kurtz-David V.</b>, Madar, A , Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics and Choice Inconsistency, <i>Journal of Neuroscience</i>, forthcoming.<br> 
-[[Paper]](https://doi.org/10.1101/2022.12.20.521216)<br>
+<b>Kurtz-David V.</b>, Madar, A., Hakim A., & Levy D.J., The Trembling Hand Unraveled: Motor Dynamics and Choice Inconsistency, <i>Journal of Neuroscience<i>, 45 (32), 2025.<br>
+[[Paper]](https://doi.org/10.1523/JNEUROSCI.1312-24.2025)<br> 
 
 Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired functional connectivity predicts choice inconsistency, <i>Journal of Neuroscience</i>, 44 (18), 2024.<br> 
 [[Paper]](https://doi.org/10.1523/JNEUROSCI.0453-23.2024) <br>
