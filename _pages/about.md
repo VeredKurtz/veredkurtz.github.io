@@ -64,7 +64,7 @@ Ongoing projects
 
 <b>Kurtz-David V.</b>, Sinha S., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, The Effect of Choice Set Size on Value-Encoding Mechanisms.<br>
 
-Hakim A.*,<b>Kurtz-David V.*</b>, Light B. & Levy D.J., The Neural Correlates of Prudent Behavior.<br>
+Hakim A.*, <b>Kurtz-David V.*</b>, Light B. & Levy D.J., The Neural Correlates of Prudent Behavior.<br>
 
 <hr>
 
