@@ -17,7 +17,7 @@ My main research interests include neuroeconomics, experimental economics, and d
 I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com), [Ryan Webb](http://ryan-webb.com) 
  and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
- [[Link to my CV]](files/Vered Kurtz_CV_Sep2025.pdf). 
+ [[Link to my CV]](files/Vered_Kurtz_CV_Sep2025.pdf). 
 
 <hr>
 
