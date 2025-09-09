@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
  
- I am a postdoctoral fellow with [Paul Glimcher](https://www.neuroeconomicslab.org/), Chair of the Neuroscience Institute at NYU.<br> 
- My main research interests include neuroeconomics, experimental economics,<br>
- and decision-making neuroscience. <br>
- My work focuses on neural mechanisms of irrational choice, reward encoding<br>
- and strategic choice.<br>
- I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).<br>
- I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com), [Ryan Webb](http://ryan-webb.com) 
+I am a Senior Lecturer (Assistant Prof.) at the [Bogen Family Econ Department](https://en.economics.huji.ac.il) and the [PPE Program](https://en.ppe.huji.ac.il) at Hebrew University, where I am also visiting the [Federmann Center for the Study of Rationality](https://ratio.huji.ac.il). <br>
+I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il).<br>, followed by a postdoctoral fellowship with [Paul Glimcher](https://www.neuroeconomicslab.org/), Chair of the Neuroscience Institute at NYU.<br> 
+<br>
+My main research interests include neuroeconomics, experimental economics,<br>
+and decision-making neuroscience. <br>
+My work focuses on neural mechanisms of irrational choice, reward encoding<br>
+and strategic choice.<br>
+
+I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com), [Ryan Webb](http://ryan-webb.com) 
  and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
-In the summer of 2025, I will join HebrewU as a Senior Lecturer (Ass. Prof.) at the Econ Department and the PPE Program.<br>
-<br>
- [[Link to my CV]](files/Vered_Kurtz_CV_Apr2025.pdf). 
+ [[Link to my CV]](files/Vered_Kurtz_CV_Sep2025.pdf). 
 
 <hr>
 
