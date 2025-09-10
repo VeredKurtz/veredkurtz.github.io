@@ -38,10 +38,10 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 Preprints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under review, <i>Nature Communications</i>. <br>
+<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under revision. </i>. <br>
 [[Paper]](https://doi.org/10.31234/osf.io/sfhdk)<br>
 
-<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, under review, <i>PlosOne</i>. <br> 
+<b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, R&R, <i>PlosOne</i>. <br> 
 [[Paper]](https://doi.org/10.1101/2024.08.25.609561)<br>
 
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design Invariance in the Classic Consumer Choice Problem.<br>
