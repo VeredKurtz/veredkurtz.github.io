@@ -38,7 +38,7 @@ Madar, A ,<b>Kurtz-David V.</b>, Hakim A., Levy D.J. & Tavor I., Pre-acquired fu
 
 Preprints and submitted papers 
 ======
-<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under revision. </i>. <br>
+<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., The Limits of Social Cognition: Production Functions and Reasoning in Strategic Interactions, under revision. <br>
 [[Paper]](https://doi.org/10.31234/osf.io/sfhdk)<br>
 
 <b>Kurtz-David V.</b>, Sinha, S., Alladi V., Bucher S., Brandenburger A., Louie K., Glimcher P.# & Tymula A.#, A Tale of Two Environments: Divisive Normalization and the (In)Flexibility of Choice, R&R, <i>PlosOne</i>. <br> 
