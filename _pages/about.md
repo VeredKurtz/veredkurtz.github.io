@@ -10,6 +10,8 @@ redirect_from:
  
 I am a Senior Lecturer (Assistant Prof.) at the [Bogen Family Econ Department](https://en.economics.huji.ac.il) and the [PPE Program](https://en.ppe.huji.ac.il) at Hebrew University, where I am also visiting the [Federmann Center for the Study of Rationality](https://ratio.huji.ac.il). <br>
 <br>
+I lead the Jerusalem Neuroeconomics Lab (website coming soon!), the first research group within an Econ Department in Israel to integrate neuroscientific methods into economic research. <br>
+<br>
 I completed my PhD at Tel Aviv University, advised by [Dino Levy](https://dinolevylab.tau.ac.il), followed by a postdoctoral fellowship with [Paul Glimcher](https://www.neuroeconomicslab.org/), Chair of the Neuroscience Institute at NYU.<br> 
 <br>
 My main research interests include neuroeconomics, experimental economics, and decision-making neuroscience. My work focuses on neural mechanisms of irrational choice, reward encoding and strategic choice.<br>
@@ -17,7 +19,20 @@ My main research interests include neuroeconomics, experimental economics, and d
 I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/~persitzd/research.html), [Adam Brandenburger](https://www.adambrandenburger.com), [Ryan Webb](http://ryan-webb.com) 
  and [Agnieszka Tymula](https://www.tymula.com/agnieszka/).<br>
 <br>
- [[Link to my CV]](files/Vered_Kurtz_CV_Sep2025.pdf). 
+ [[Link to my CV]](files/Vered_Kurtz_CV_Feb2026.pdf). 
+
+<hr>
+
+Join the team
+======
+If you’re curious about how people make decisions—and you want to study it in a truly well-rounded way, we’d love to hear from you. <br>
+<br>
+In our lab, we combine behavioral experiments with cutting-edge measurement tools (including imaging methods), alongside rigorous theory and modeling, to generate deep insights into how we think, choose, and navigate the world.<br>
+<br>
+We welcome researchers from diverse backgrounds and disciplines, including economics, psychology, cognitive science, neuroscience, data sceince and management. <br>
+We have open positions at all levels: undergraduates, graduate students, postdocs, and research assistants. <br>
+<br>
+Contact: vered.kurtz@mail.huji.ac.il
 
 <hr>
 
@@ -58,11 +73,9 @@ Publications in Hebrew
  
 Ongoing projects
 ======
-<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., Neural Mechanisms of Higher-Order Levels of Reasoning.<br>
+<b>Kurtz-David V.</b>, Brandenburger A. & Glimcher P., Neural Tradeoffs in Strategic Choice.<br>
 
-<b>Kurtz-David V.</b>, Howell K., Meyer M. & Glimcher P., I Have Been Thinking About You: Relating Strategic Reasoning to Theory of Mind.<br>
-
-<b>Kurtz-David V.</b>, Sinha S., Alladi V., Brandenburger A., Bucher S. Dewan A., Louie K., Glimcher P.# & Tymula A.#, The Effect of Choice Set Size on Value-Encoding Mechanisms.<br>
+<b>Kurtz-David V.</b>, Glimcher P. & Tymula A., Reward Expectation: Encoding the Best or Encoding the Mean? <br>
 
 Hakim A.*, <b>Kurtz-David V.*</b>, Light B. & Levy D.J., The Neural Correlates of Prudent Behavior.<br>
 
