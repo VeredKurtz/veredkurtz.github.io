@@ -25,7 +25,7 @@ I have been fortunate to collaborate with [Dotan Persitz](https://www.tau.ac.il/
 
 Join the team
 ======
-If you’re curious about how people make decisions—and you want to study it in a truly well-rounded way, we’d love to hear from you. <br>
+If you’re curious about how people make decisions, and you want to study it in a truly well-rounded way, we’d love to hear from you. <br>
 <br>
 In our lab, we combine behavioral experiments with cutting-edge measurement tools (including imaging methods), alongside rigorous theory and modeling, to generate deep insights into how we think, choose, and navigate the world.<br>
 <br>
