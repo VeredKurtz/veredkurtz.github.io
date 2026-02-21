@@ -62,6 +62,8 @@ Preprints and submitted papers
 <b>Kurtz-David V.</b>, Persitz D. & Levy D.J., Design Invariance in the Classic Consumer Choice Problem.<br>
 [[Slides]](/files/KPL_slides_2024.pdf)<br>
 
+Ye Y., Fang Y., Gao X., <b>Kurtz-David V.<b>, Hula A., Zhou X., Fan C., Shen B., Long T., 2026, MindEvolve: A workflow for large language models to predict human social interactions with interpretable symbolic models. <br>
+
 <hr>
 
 Publications in Hebrew
