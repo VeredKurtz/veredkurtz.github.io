@@ -102,6 +102,12 @@ h1,h2,h3 { font-family: Georgia, "Times New Roman", serif; color: var(--ink-deep
 .publication-group + .publication-group { margin-top: 56px; }
 .publication-group h2 { font-size: 2rem; margin-bottom: 18px; }
 .publication-group .group-note { margin: -8px 0 20px; color: var(--muted); }
+.pub-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  white-space: nowrap;
+}
 
 .current-list { display: grid; grid-template-columns: 1fr 1fr; gap: 0 44px; border-top: 1px solid var(--line); }
 .current-item { padding: 23px 0; border-bottom: 1px solid var(--line); }
